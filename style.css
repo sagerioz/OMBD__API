@@ -1,0 +1,95 @@
+    .movie {
+    border: 1px solid #CFCFCF;
+    padding: 10px 10px 8px;
+    border-radius: 3px;
+    max-width: 800px;
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #181616;
+    font-size: 44px;
+    line-height: 3;
+    font-weight: 600;
+    outline: none;
+}
+h2 {
+    color: #4E4E4E;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 3;
+    font-weight: 600;
+    outline: none;
+}
+.title {
+    color: #4E4E4E;
+    font-size: 24px;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+    line-height: 1.5;
+    font-weight: 600;
+    outline: none;
+    text-align: relative;
+}
+
+p {
+    color: #4E4E4E;
+    font-size: 12px;
+    line-height: normal;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    outline: none;
+}
+
+input, textarea, select {
+    color: #4E4E4E;
+    font-size: 16px;
+    line-height: normal;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    outline: none;
+    text-align: center;
+}
+
+header h1 {
+  color: #181616;
+  font-family: 'Bitter', Georgia, serif;
+    margin: 10;
+    height: 150px;
+    text-align: center;
+    background: url(http://www.stoimen.com/blog/wp-content/themes/twentythirteen/images/headers/circle.png) no-repeat scroll top;
+}
+
+footer {
+    height: 100px;
+    background-color: #1e8785;
+    /* Dark Blue */
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}
+.wrapper {
+  width: 735px;
+  margin: auto;
+}
+.noImg {
+position: relative;
+border: 1px solid lightgrey;
+background: url(http://sirsyedcollege.org/wp-content/themes/EducationAcademy/images/no-image_980x516.jpg) 50% 50%/contain no-repeat;
+height: 75px;
+width: 126px;
+content: "";
+margin: 0 10px 10px 0;}
+
+.navbar {
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 1600px;
+    width: 100%;
+  
+
+}
+.searchButton {
+  width: 735px;
+  margin: auto;
+  text-align: right;
